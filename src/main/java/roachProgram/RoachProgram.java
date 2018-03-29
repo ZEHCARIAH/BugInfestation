@@ -1,7 +1,16 @@
 package roachProgram;
 import java.util.Scanner;
+/**
+ * This class define a roach program.</br>
+ * This roach program has public static void main method and public void method.</br>
+ * Main method call calculator void method </br>
+ * void calculate method deal with detail information about how to get calculate roach in the room.</br>
+ * @author MG
+ *
+ */
 
 public class RoachProgram {
+
 
 	final double One_Bug_volume =0.002;
 	final double GROWTH=0.95;
